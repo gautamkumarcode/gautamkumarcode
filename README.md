@@ -15,8 +15,8 @@
 ### 👨‍💻 About Me
 <img align="right" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="200px" />
 
-- 🔭 Currently working on **HRMS projects**
-- 🌱 Learning **TypeScript** and **Next.js**
+- 🔭 Currently working on **Interviewfuel- A interview Prepration web app**
+- 🌱 Learning **New tech**
 - 👯 Open to collaborating on **projects** and **technical writing**
 - 💬 Ask me about: JavaScript, React, Open Source, Freelancing
 
