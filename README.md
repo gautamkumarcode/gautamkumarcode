@@ -1,4 +1,4 @@
-<!-- Banner -->
+<!-- ======================= BANNER ======================= -->
 <p align="center">
   <img src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="Profile Banner" width="100%" />
 </p>
@@ -19,9 +19,10 @@
 <img align="right" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="220px" />
 
 - 🔭 Currently building **InterviewFuel** — an AI-powered interview preparation platform  
-- 🌱 Exploring **modern web technologies & system design**  
-- 👯 Open to collaborating on **open-source projects** & **startups**  
-- 💬 Ask me about **JavaScript, React, Next.js, Backend APIs, Freelancing**
+- 🌱 Continuously learning **modern web technologies & system design**  
+- 👯 Open to collaborating on **open-source projects** and **startup ideas**  
+- 💬 Ask me about **JavaScript, React, Next.js, Backend APIs, AWS, Freelancing**  
+- ⚡ I enjoy building real-world products more than watching tutorials  
 
 ---
 
@@ -30,6 +31,38 @@
 | Languages | Frameworks & Libraries | Databases | Web |
 |----------|------------------------|-----------|-----|
 | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" width="34"/> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" width="34"/> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg" width="34"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" width="34"/> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg" width="34"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg" width="34"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" width="34"/> <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg" width="34"/> |
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 InterviewFuel — AI Interview Preparation Platform
+- Topic-wise & company-specific interview questions  
+- Difficulty-based preparation (Easy / Medium / Hard)  
+- Clean UI with fast performance  
+- Tech Stack: **Next.js, Node.js, MongoDB, Tailwind CSS**
+
+🔗 Live / Repo: _(coming soon)_
+
+---
+
+### 🏗️ B2B E-Commerce Platform (Hub-Based Inventory)
+- Admin approval workflow  
+- Nearest hub assignment to customers  
+- Hub-wise stock visibility & pricing  
+- Optimized checkout performance  
+
+🔗 Repo: _(add link)_
+
+---
+
+## 🧠 Currently Learning
+
+- ⚡ Advanced **Next.js App Router**
+- 🔐 Authentication & Authorization (JWT, OAuth)
+- 🧩 System Design & scalability
+- 🚀 Performance optimization & caching
+- 🐳 Docker & deployment best practices
 
 ---
 
@@ -43,6 +76,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamkumarcode&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumarcode&layout=compact&theme=radical" />
 </p>
+
+---
+
+## 🧪 Development Tools & Workflow
+
+- 💻 VS Code, Git & GitHub  
+- 🔄 GitHub Actions (CI/CD)  
+- ☁️ AWS EC2, Nginx  
+- 📦 PM2, REST APIs  
+- 📡 WebSockets & real-time systems  
+
+---
+
+## 📌 My Development Philosophy
+
+- 🧩 Break complex problems into simple solutions  
+- 🚀 Performance & scalability first  
+- 🎯 Clean UI with strong UX focus  
+- 📖 Continuous improvement mindset  
+- 🤝 Strong communication & teamwork  
 
 ---
 
@@ -93,5 +146,5 @@
 ---
 
 <p align="center">
-  💙 Thanks for stopping by — happy coding! 🚀
+  💙 Thanks for stopping by — happy coding & keep building! 🚀
 </p>
