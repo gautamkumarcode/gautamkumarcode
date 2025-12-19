@@ -34,7 +34,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gautamkumarcode&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=gautamkumarcode&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
