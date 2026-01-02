@@ -42,7 +42,7 @@
 - Clean UI with fast performance  
 - Tech Stack: **Next.js, Node.js, MongoDB, Tailwind CSS**
 
-🔗 Live / Repo: _(coming soon)_
+🔗 Live / Repo: interviewfuel.dev
 
 ---
 
@@ -52,7 +52,7 @@
 - Hub-wise stock visibility & pricing  
 - Optimized checkout performance  
 
-🔗 Repo: _(add link)_
+🔗 Repo:kingshoppers.in
 
 ---
 
@@ -65,16 +65,15 @@
 - 🐳 Docker & deployment best practices
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gautamkumarcode&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=gautamkumarcode&theme=radical&hide_border=true&v=1" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamkumarcode&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumarcode&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamkumarcode&show_icons=true&theme=radical&v=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamkumarcode&layout=compact&theme=radical&v=1" />
 </p>
 
 ---
