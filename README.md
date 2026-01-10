@@ -9,12 +9,12 @@
 </h1>
 
 <p align="center">
-  🚀 Welcome to my GitHub profile! Glad to have you here 😄
+Welcome to my GitHub profile! Glad to have you here 😄
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif" width="220px" />
 
@@ -34,9 +34,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🎯 InterviewFuel — AI Interview Preparation Platform
+###  InterviewFuel — AI Interview Preparation Platform
 - Topic-wise & company-specific interview questions  
 - Difficulty-based preparation (Easy / Medium / Hard)  
 - Clean UI with fast performance  
@@ -46,7 +46,7 @@
 
 ---
 
-### 🏗️ B2B E-Commerce Platform (Hub-Based Inventory)
+###  B2B E-Commerce Platform (Hub-Based Inventory)
 - Admin approval workflow  
 - Nearest hub assignment to customers  
 - Hub-wise stock visibility & pricing  
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Currently Learning
+##  Currently Learning
 
 - ⚡ Advanced **Next.js App Router**
 - 🔐 Authentication & Authorization (JWT, OAuth)
@@ -78,7 +78,7 @@
 
 ---
 
-## 🧪 Development Tools & Workflow
+## Development Tools & Workflow
 
 - 💻 VS Code, Git & GitHub  
 - 🔄 GitHub Actions (CI/CD)  
@@ -88,7 +88,7 @@
 
 ---
 
-## 📌 My Development Philosophy
+##  My Development Philosophy
 
 - 🧩 Break complex problems into simple solutions  
 - 🚀 Performance & scalability first  
@@ -98,7 +98,7 @@
 
 ---
 
-## 🌐 Connect With Me 🤝
+##  Connect With Me 🤝
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gautam-kumar-7b9933251/" target="_blank">
@@ -111,7 +111,7 @@
 
 ---
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gautamkumarcode&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
@@ -128,7 +128,7 @@
 
 ---
 
-## 📅 Contribution Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/ff4b4b/gautamkumarcode" alt="Contribution Graph" />
@@ -136,7 +136,7 @@
 
 ---
 
-## 😂 Programming Humor
+##  Programming Humor
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" />
@@ -145,5 +145,5 @@
 ---
 
 <p align="center">
-  💙 Thanks for stopping by — happy coding & keep building! 🚀
+  💙 Thanks for stopping by — happy coding & keep building! 
 </p>
